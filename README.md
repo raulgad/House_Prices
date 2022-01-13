@@ -7,5 +7,5 @@ Done:
 - Hyperparameters tuning with Optuna
 - Feature analysis with a 'Feature importances' and 'Permutation importances'
 - Clustering with a KMeans, AgglomerativeClustering algorithm and dimension reduction techniques: PCA, t-SNE and UMAP
-- Best result: __160th__ place out of __5172__ with a RMSLE metric __0.11851__
+- Best result: __160th__ place out of __5172__ (top 2%) with a RMSLE metric __0.11851__
 <img src="static/leaderboard.jpg"/>
