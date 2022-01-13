@@ -17,6 +17,6 @@ Done:
 
 <img src="static/cluster.png"/>
 
-- Best result: __160th__ place out of __5172__ (top 2%) with a RMSLE metric __0.11851__
+- Best result: __TOP 2%__ (160th place out of 5172) with a RMSLE metric __0.11851__
 
 <img src="static/leaderboard.jpg"/>
