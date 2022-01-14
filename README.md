@@ -1,12 +1,13 @@
 # Data analysis and implementation of ML models
 Competition - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+
 Done:
 - Data preprocessing
 
 <img src="static/target_distr.png"/>
 
 - Feature engineering
-- Models training: RandomForest, XGBoost, LGBM, Catboost
+- Models training: GradientBoosting, XGBoost, LGBM, Catboost
 - Hyperparameters tuning with Optuna
 
 - Feature analysis with a 'Feature importances' and 'Permutation importances'
