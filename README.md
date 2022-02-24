@@ -10,7 +10,7 @@ Done:
 - Models training: GradientBoosting, XGBoost, LGBM, Catboost
 - Hyperparameters tuning with Optuna
 
-- Feature analysis with a 'Feature importances' and 'Permutation importances'
+- Feature analysis
 
 <img src="static/corrmat.png"/>
 
